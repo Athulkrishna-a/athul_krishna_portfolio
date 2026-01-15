@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Gravitas+One&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Marcellus&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "tailwindcss";
+
+@layer utilities {
+    .font-cormorant {
+        font-family: "Cormorant", serif;
+    }
+
+    .font-gravitas {
+        font-family: "Gravitas One", serif;
+    }
+
+    .font-inknut {
+        font-family: "Inknut Antiqua", serif;
+    }
+
+    .font-marcellus {
+        font-family: "Marcellus", serif;
+    }
+
+    .font-space-mono {
+        font-family: "Space Mono", monospace;
+    }
+}
